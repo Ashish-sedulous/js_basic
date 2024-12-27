@@ -24,4 +24,8 @@
 //     console.log("Hello World");
 // }  // Function
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+//memory of two types->stack,heap
+//stack(primitive)->create a copy of data
+//heap(non-primitive)->changes the original data by referencing original data address
