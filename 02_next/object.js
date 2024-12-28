@@ -67,8 +67,19 @@ const obj3={5:"e",6:"f"}
 const obj4={...obj1,...obj2,...obj3}
 //console.log(obj4)
 
-console.log(Object.keys(bhai));
-console.log(Object.values(bhai));
-console.log(Object.entries(bhai));
+// console.log(Object.keys(bhai));
+// console.log(Object.values(bhai));
+// console.log(Object.entries(bhai));
+
+const course={
+    instructor:"sahil",
+    price:"5555",
+    name:"pathshala",
+}
+
+const {instructor}=course 
+
+console.log(instructor);
+
 
 
