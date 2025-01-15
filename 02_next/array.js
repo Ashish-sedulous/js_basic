@@ -5,9 +5,9 @@
 //console.log(arr1);
 //console.log(arr1[0]);
 
-//arr1.unshift(9)
-//console.log(arr1);
-//arr1.shift()
+// arr1.unshift(9)
+// console.log(arr1);
+// arr1.shift()
 
 // console.log(arr1.includes(9));
 // console.log(arr1.indexOf(3));
