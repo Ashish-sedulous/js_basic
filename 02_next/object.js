@@ -27,14 +27,14 @@ const user={
 //console.log(user.email);
 //console.log(user);
 
-// user.greeting=function(){
-//     console.log("hello world");
-// }
-// user.greetingtwo=function(){
-//     console.log(`hello world this is:,${this.location}`);
-
-// console.log(user.greeting());
-// console.log(user.greetingtwo());
+user.greeting=function(){
+    console.log("hello world");
+}
+user.greetingtwo=function(){
+    console.log(`hello world this is:${this.location}`);
+}
+console.log(user.greeting());
+console.log(user.greetingtwo());
 
 //const bhai=Object()//->singelton 
 
