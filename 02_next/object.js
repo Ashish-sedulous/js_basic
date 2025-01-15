@@ -53,7 +53,8 @@ const baby={
             firstname:"ashu",
             lastname:"baby",
         }
-    }
+    } 
+    
 }
 //console.log(baby.name.fullname.firstname);
 
